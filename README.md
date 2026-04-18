@@ -39,6 +39,6 @@ The dataset includes the following columns:
 
 ## 📎 File Included
 - `customer_shopping_behavior.csv`
-
+  customer-sales-analysis.ipynb
 ## 👤 Author
-Manoj Kumar
+Manoj Kumar  
